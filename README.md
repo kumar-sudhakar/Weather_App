@@ -1,52 +1,68 @@
-# Weather_App
 My InternSpark Assignment
 
 🌦️ Weather App
 
-🚀 Live Demo:
-👉 https://kumar-sudhakar.github.io/Weather_App/
+A simple and responsive Weather Application built using HTML, CSS, and JavaScript that provides real-time weather updates for any city.
 
-📌 About the Project
+🚀 Live Demo
 
-The Weather App is a simple and interactive web application that provides real-time weather information for any city. Users can search for a location and instantly get details like temperature, weather conditions, and more.
+🔗 https://kumar-sudhakar.github.io/Weather_App/
 
-This project is built using HTML, CSS, and JavaScript, and typically uses APIs (like OpenWeatherMap) to fetch live weather data, which is a common approach in modern weather applications.
-
-✨ Features
+📌 Features
 🌍 Search weather by city name
-🌡️ Display current temperature
-☁️ Shows weather conditions (clouds, rain, etc.)
-💨 Additional info like humidity & wind (if implemented)
-⚡ Fast and responsive UI
-📱 Works on mobile and desktop
+🌡️ Displays temperature, weather condition, and details
+📱 Fully responsive design (mobile + desktop)
+⚡ Fast and user-friendly interface
+❌ Error handling for invalid city input
 🛠️ Tech Stack
 HTML5 – Structure
-CSS3 – Styling
-JavaScript (Fetch API) – Functionality
-Weather API – For real-time data
+CSS3 – Styling & responsiveness
+JavaScript (ES6) – Functionality
+Weather API – Fetch real-time weather data
 📂 Project Structure
 Weather_App/
 │── index.html
 │── style.css
 │── script.js
-🚀 How to Run Locally
-Clone the repository
+│── assets/
+⚙️ How It Works
+User enters a city name
+App sends request to Weather API
+API returns weather data
+Data is displayed on the UI
+💻 Run Locally
 git clone https://github.com/kumar-sudhakar/Weather_App.git
-Open the project folder
 cd Weather_App
-Run the app
-Open index.html in your browser
+open index.html
+🔑 API Setup
+Get a free API key from a weather provider (like OpenWeatherMap)
+Add your API key in script.js:
+const apiKey = "YOUR_API_KEY";
 📸 Screenshots
 
-(Add screenshots here later for better presentation)
+Add screenshots here (optional but recommended for better GitHub look)
 
-🎯 Learning Outcomes
-Working with APIs (fetching real-time data)
-DOM manipulation using JavaScript
-Handling user input
-Building responsive UI
-🔗 Connect with Me
+🎯 Future Improvements
+🌙 Dark / Light mode
+📅 5-day weather forecast
+📍 Auto-detect location
+🌐 Multiple language support
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+Create a new branch
+Make changes
+Submit a Pull Request
+📄 License
+
+This project is open-source and available under the MIT License.
+
+👨‍💻 Author
+
+Sudhakar Kumar
+
 GitHub: https://github.com/kumar-sudhakar
-⭐ Show Your Support
-
-If you like this project, please ⭐ star the repository and share it!
+Portfolio: https://kumar-sudhakar.github.io/portfolio-website/
+⭐ If you like this project, don't forget to star the repo!

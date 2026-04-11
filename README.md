@@ -68,30 +68,9 @@ open index.html
 
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+const apiKey = ".........";
 ```
 
----
-
-## 📸 Screenshots
-
-### 🏠 Home
-
-![Home](Screenshots/home.png)
-
-### 🔍 Weather Result
-
-![Result](Screenshots/result.png)
-
-### ❌ Error Handling
-
-![Error](Screenshots/error.png)
-
-### 📱 Mobile View
-
-![Mobile](Screenshots/mobile.png)
-
----
 
 ## 🎯 Future Improvements
 

@@ -8,6 +8,8 @@ A simple and responsive Weather Application built using HTML, CSS, and JavaScrip
 
 🔗 https://kumar-sudhakar.github.io/Weather_App/
 
+..............................................................................................................................................
+
 📌 Features
 🌍 Search weather by city name
 🌡️ Displays temperature, weather condition, and details
@@ -19,6 +21,9 @@ HTML5 – Structure
 CSS3 – Styling & responsiveness
 JavaScript (ES6) – Functionality
 Weather API – Fetch real-time weather data
+
+......................................................................................................................................
+
 📂 Project Structure
 Weather_App/
 │── index.html
@@ -38,9 +43,12 @@ open index.html
 Get a free API key from a weather provider (like OpenWeatherMap)
 Add your API key in script.js:
 const apiKey = "YOUR_API_KEY";
+......................................................................................................................................
 📸 Screenshots
 
-Add screenshots here (optional but recommended for better GitHub look)
+[![Home](https://raw.githubusercontent.com/kumar-sudhakar/Weather_App/main/Screenshots/home.png)](https://kumar-sudhakar.github.io/Weather_App/)
+
+..................................................................................................................................................
 
 🎯 Future Improvements
 🌙 Dark / Light mode

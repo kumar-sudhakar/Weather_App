@@ -5,7 +5,6 @@ My InternSpark Assignment
 A simple and responsive Weather Application built using HTML, CSS, and JavaScript that provides real-time weather updates for any city.
 
 🚀 Live Demo
-
 🔗 https://kumar-sudhakar.github.io/Weather_App/
 
 ..............................................................................................................................................
@@ -41,8 +40,8 @@ cd Weather_App
 open index.html
 🔑 API Setup
 Get a free API key from a weather provider (like OpenWeatherMap)
-Add your API key in script.js:
-const apiKey = "YOUR_API_KEY";
+
+
 ......................................................................................................................................
 📸 Screenshots
 
